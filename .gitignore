@@ -1,0 +1,103 @@
+# Miscellaneous
+hello_world/*.class
+hello_world/*.log
+hello_world/*.pyc
+hello_world/*.swp
+hello_world/.DS_Store
+hello_world/.atom/
+hello_world/.buildlog/
+hello_world/.history
+hello_world/.svn/
+
+statefull_widget/*.class
+statefull_widget/*.log
+statefull_widget/*.pyc
+statefull_widget/*.swp
+statefull_widget/.DS_Store
+statefull_widget/.atom/
+statefull_widget/.buildlog/
+statefull_widget/.history
+statefull_widget/.svn/
+
+stateless_widget/*.class
+stateless_widget/*.log
+stateless_widget/*.pyc
+stateless_widget/*.swp
+stateless_widget/.DS_Store
+stateless_widget/.atom/
+stateless_widget/.buildlog/
+stateless_widget/.history
+stateless_widget/.svn/
+
+# IntelliJ related
+hello_world/*.iml
+hello_world/*.ipr
+hello_world/*.iws
+hello_world/.idea/
+
+statefull_widget/*.iml
+statefull_widget/*.ipr
+statefull_widget/*.iws
+statefull_widget/.idea/
+
+stateless_widget/*.iml
+stateless_widget/*.ipr
+stateless_widget/*.iws
+stateless_widget/.idea/
+
+# The .vscode folder contains launch configuration and tasks you configure in
+# VS Code which you may wish to be included in version control, so this line
+# is commented out by default.
+#.vscode/
+
+# Flutter/Dart/Pub related
+hello_world/**/doc/api/
+hello_world/**/ios/Flutter/.last_build_id
+hello_world/.dart_tool/
+hello_world/.flutter-plugins
+hello_world/.flutter-plugins-dependencies
+hello_world/.packages
+hello_world/.pub-cache/
+hello_world/.pub/
+hello_world/build/
+
+statefull_widget/**/doc/api/
+statefull_widget/**/ios/Flutter/.last_build_id
+statefull_widget/.dart_tool/
+statefull_widget/.flutter-plugins
+statefull_widget/.flutter-plugins-dependencies
+statefull_widget/.packages
+statefull_widget/.pub-cache/
+statefull_widget/.pub/
+statefull_widget/build/
+
+stateless_widget/**/doc/api/
+stateless_widget/**/ios/Flutter/.last_build_id
+stateless_widget/.dart_tool/
+stateless_widget/.flutter-plugins
+stateless_widget/.flutter-plugins-dependencies
+stateless_widget/.packages
+stateless_widget/.pub-cache/
+stateless_widget/.pub/
+stateless_widget/build/
+
+# Web related
+hello_world/lib/generated_plugin_registrant.dart
+
+statefull_widget/lib/generated_plugin_registrant.dart
+
+stateless_widget/lib/generated_plugin_registrant.dart
+
+# Symbolication related
+hello_world/app.*.symbols
+
+statefull_widget/app.*.symbols
+
+stateless_widget/app.*.symbols
+
+# Obfuscation related
+hello_world/app.*.map.json
+
+statefull_widget/app.*.map.json
+
+stateless_widget/app.*.map.json
